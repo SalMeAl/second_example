@@ -1,2 +1,2 @@
 # second_example
-SEcond example of pushing a file
+Second example of pushing a file
